@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Parsa Sedigh
+- 👀 I’m interested in nodejs and typescript
