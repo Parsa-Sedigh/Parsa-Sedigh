@@ -10,4 +10,4 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=falt&logo=postgresql)
+![Postgres](https://img.shields.io/badge/postgres-05122A?style=falt&logo=postgresql)
