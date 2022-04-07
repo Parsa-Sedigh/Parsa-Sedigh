@@ -12,3 +12,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-05122A?style=falt&logo=postgresql)
 ![Nestjs](https://img.shields.io/badge/nestjs-05122A?style=falt&logo=nestjs)
+![rxjs](https://img.shields.io/badge/rxjs-05122A?style=falt&logo=rxjs)
